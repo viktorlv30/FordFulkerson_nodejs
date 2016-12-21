@@ -1,0 +1,11 @@
+{
+  "name": "ford_fulkerson_js",
+  "version": "1.0.0",
+  "description": "max_flow, protalkivanie_predpotoka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "v.litvak",
+  "license": "ISC"
+}
